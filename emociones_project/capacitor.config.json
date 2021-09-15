@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.emociones_project",
+  "appName": "Emociones Project",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Emociones Project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,39 @@
+h1 {
+	color: white;
+}
+
+.form-container {
+	display: block;
+	position: absolute;
+	z-index: 9999;
+	top: 5vh;
+	bottom: 15vh;
+	left: 5vw;
+	right: 5vw;
+	justify-content: center;
+	align-items: center;	
+	padding: 20px;
+
+	background-color: black;
+	border-radius: 15px;
+	
+}
+
+.form-container > * {
+	display: block;
+}
+
+#text-pensamiento {
+	width: 80%;
+	margin: 5vh 7%;
+	padding: 10px;
+	height: 30vh;
+	border-radius: 10px;
+}
+
+.fab-container-form {
+	width: 80%;
+	margin-left: 10%;
+	justify-content: space-around;
+	display: flex;
+}

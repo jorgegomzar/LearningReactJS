@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+	height: 100vh;
+	overflow: hidden;
+}
+
+.main-container {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.fab {
+}
+
+.fab-container {
+	position: absolute;
+	left: 7vw;
+	right: 7vw;
+	bottom: 3vh;
+	display: flex;
+	width: 86%;
+	justify-content: space-between;
+}
+

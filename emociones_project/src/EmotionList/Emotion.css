@@ -1,0 +1,29 @@
+.item-container {
+	width: 100%;
+	margin: 1vh 0;
+}
+
+.fecha {
+	/* Background color */
+	background-color: rgb(134, 18, 82);
+	border-radius: 15px 0;
+	width: 15vw;
+	padding: 5px;
+
+	/* Stick to the left */
+	left: 0;
+	position: sticky;
+
+	/* Displayed on top of other rows when scrolling */
+	z-index: 9999;
+
+}
+
+.dia {
+	font-size: 1em;
+}
+
+.hora {
+	color: gray;
+	font-size: 0.75em;
+}
